@@ -1,1 +1,1 @@
-# Hello, I'm [Praduman Prajapati] 👋
+# Hello, I'm Praduman Prajapati 👋
