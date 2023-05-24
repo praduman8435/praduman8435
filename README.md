@@ -7,7 +7,7 @@
 
 <p align="left"> 
 
-<a href="https://www.github.com/Harshal0902" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64153988/206997029-389fab74-2555-41a9-b29c-29c81990613e.png" width="38" height="38" /></a>
+<a href="https://www.github.com/praduman8435" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64153988/206997029-389fab74-2555-41a9-b29c-29c81990613e.png" width="38" height="38" /></a>
 <a href="http://www.instagram.com/___.praduman.___" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64153988/206997606-66d4eab4-574c-46a5-b24a-a91aaa495781.png" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/praduman-prajapati" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64153988/206997776-b59bf0bc-7414-4734-9dce-960b7e020bcd.png" width="38" height="38" /></a>
 <a href="https://www.twitter.com/Praduman___" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64153988/206997987-8e2d6f80-dfc1-4917-a27b-47595e676c0f.png" width="38" height="38" /></a>
