@@ -1,5 +1,6 @@
 ## Hey! <img src="https://user-images.githubusercontent.com/64153988/206999317-888120f8-6ba1-4c19-ba35-08e87feb530a.gif" width="30"> Great to see you here
 
+<a href="https://praduman8435.github.io/"><img src="/src/profile_banner.gif"></a>
 
 ## Connect with me:  <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
 
