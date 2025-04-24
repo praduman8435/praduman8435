@@ -12,3 +12,7 @@
 - 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure, GCP), Kubernetes, Python, Golang, Linux, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, Data Structures, C (Programming Language)**
 
 - 📫 How to reach me **praduman.cnd@gmail.com**
+
+<a href="https://www.buymeacoffee.com/praduman" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important; width: 145px !important;">
+</a>
