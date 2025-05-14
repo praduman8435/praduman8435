@@ -7,7 +7,7 @@
 
 
 
-- 📝 I regularly write articles on [https://itspraduman.hashnode.dev](https://itspraduman.hashnode.dev)
+- 📝 I regularly write articles on [https://blogs.praduman.site](https://blogs.praduman.site)
 
 - 💬 Ask me about **DevOps, Cloud(AWS, Microsoft Azure, GCP), Kubernetes, Python, Golang, Linux, Git, Docker, Terraform, Jenkins, Ansible, Shell Scripting, MongoDB, MySQL, React.js, HTML, CSS, Javascript, ArgoCD**
 
