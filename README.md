@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://itspraduman.hashnode.dev](https://itspraduman.hashnode.dev)
 
-- 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure, GCP), Kubernetes, Python, Golang, Linux, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, Data Structures, C (Programming Language)**
+- 💬 Ask me about **DevOps, Cloud(AWS, Microsoft Azure, GCP), Kubernetes, Python, Golang, Linux, Git, Docker, Terraform, Jenkins, Ansible, Shell Scripting, MongoDB, MySQL, React.js, HTML, CSS, Javascript, ArgoCD**
 
 - 📫 How to reach me **praduman.cnd@gmail.com**
 
