@@ -15,10 +15,6 @@
 - 🤝 Building [@RadixoCrew](https://github.com/RadixoCrew)
 - 📫 Reach me at **praduman.cnd@gmail.com**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=praduman8435&label=Profile%20views&color=2C9FDB&style=flat" alt="praduman8435" />
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
